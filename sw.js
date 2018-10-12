@@ -7,7 +7,6 @@ const toCache = [
   './index.html',
   './restaurant.html',
   './css/styles.css',
-  './css/responsive.css',
   './data/restaurants.json',
   './js/dbhelper.js',
   './js/main.js',
